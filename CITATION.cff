@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "Esta versión incluye la curación de los datos del INE y el Ayuntamiento de Madrid. Si utiliza este software, por favor, cite como se muestra a continuación."
+authors:
+  - family-names: Velasco Horcajada
+    given-names: Juan José
+    orcid: https://orcid.org/0000-0002-6769-6271
+title: Jeyjei/Analisis-DCL: Curación de los datos del INE y Ayuntamiento de Madrid
+version: v1.0
+date-released: 2023-01-29
+            
